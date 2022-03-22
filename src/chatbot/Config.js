@@ -1,7 +1,7 @@
 // import Chatbot from "react-chatbot-kit";
 import React from 'react';
-import { createChatBotMessage } from 'react-chatbot-kit';
 import Quiz from '../components/Quiz/Quiz';
+import { createChatBotMessage } from 'react-chatbot-kit';
 import Options from '../components/Options/Options';
 
 const Config = {
